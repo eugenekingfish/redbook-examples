@@ -14,6 +14,7 @@
 #include "LoadShaders.h"
 
 #include <stdio.h>
+#include <cstring>
 #include <string>
 
 #define MAX_FRAMEBUFFER_WIDTH 2048
